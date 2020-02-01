@@ -4,8 +4,7 @@
 Mobile App Design - iOS Pre-work Project 
 
 ### App Walk-though
-
-http://www.giphy.com/gifs/gHQLWtysWF4WJ1HvpM 
+<img src="https://i.imgur.com/X1rJCom.gif" width=200><br>
 
 
 ### Required User Stories
